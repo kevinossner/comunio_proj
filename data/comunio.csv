@@ -1,0 +1,482 @@
+name,position,points,market_value,club
+Ulreich,Torwart,0.0,170000.0,FC Bayern Muenchen
+R. Hoffmann,Torwart,0.0,160000.0,FC Bayern Muenchen
+Früchtl,Torwart,0.0,160000.0,FC Bayern Muenchen
+Lucas Hernández,Abwehr,19.0,3900000.0,FC Bayern Muenchen
+Davies,Abwehr,85.0,7740000.0,FC Bayern Muenchen
+Mai,Abwehr,0.0,170000.0,FC Bayern Muenchen
+Pavard,Abwehr,103.0,6650000.0,FC Bayern Muenchen
+Kimmich,Abwehr,156.0,16560000.0,FC Bayern Muenchen
+Álvaro Odriozola,Abwehr,4.0,1750000.0,FC Bayern Muenchen
+Süle,Abwehr,34.0,5420000.0,FC Bayern Muenchen
+J. Boateng,Abwehr,35.0,2760000.0,FC Bayern Muenchen
+Alaba,Abwehr,87.0,6620000.0,FC Bayern Muenchen
+Singh,Mittelfeld,1.0,210000.0,FC Bayern Muenchen
+Coutinho,Mittelfeld,125.0,7520000.0,FC Bayern Muenchen
+Goretzka,Mittelfeld,59.0,7450000.0,FC Bayern Muenchen
+Tolisso,Mittelfeld,40.0,1220000.0,FC Bayern Muenchen
+Cuisance,Mittelfeld,2.0,180000.0,FC Bayern Muenchen
+Javi Martínez,Mittelfeld,27.0,1840000.0,FC Bayern Muenchen
+Thiago Alcântara,Mittelfeld,125.0,16440000.0,FC Bayern Muenchen
+Perišić,Sturm,63.0,5820000.0,FC Bayern Muenchen
+Zirkzee,Sturm,24.0,2760000.0,FC Bayern Muenchen
+Coman,Sturm,48.0,6950000.0,FC Bayern Muenchen
+Gnabry,Sturm,153.0,15960000.0,FC Bayern Muenchen
+T. Müller,Sturm,147.0,13940000.0,FC Bayern Muenchen
+Dajaku,Sturm,1.0,200000.0,FC Bayern Muenchen
+Lewandowski,Sturm,224.0,27110000.0,FC Bayern Muenchen
+Hupe,Torwart,0.0,160000.0,Borussia Dortmund
+Oelschlägel,Torwart,0.0,160000.0,Borussia Dortmund
+Bürki,Torwart,25.0,1000000.0,Borussia Dortmund
+Unbehaun,Torwart,0.0,160000.0,Borussia Dortmund
+Hummels,Abwehr,97.0,6390000.0,Borussia Dortmund
+Zagadou,Abwehr,59.0,2190000.0,Borussia Dortmund
+Hakimi,Abwehr,102.0,8280000.0,Borussia Dortmund
+Balerdi,Abwehr,1.0,220000.0,Borussia Dortmund
+Akanji,Abwehr,49.0,1930000.0,Borussia Dortmund
+Can,Abwehr,25.0,11290000.0,Borussia Dortmund
+N. Schulz,Abwehr,20.0,450000.0,Borussia Dortmund
+Mateu Morey,Abwehr,0.0,200000.0,Borussia Dortmund
+Schmelzer,Abwehr,0.0,170000.0,Borussia Dortmund
+Piszczek,Abwehr,67.0,2920000.0,Borussia Dortmund
+Witsel,Mittelfeld,98.0,8380000.0,Borussia Dortmund
+Raschl,Mittelfeld,0.0,170000.0,Borussia Dortmund
+Dahoud,Mittelfeld,19.0,420000.0,Borussia Dortmund
+Delaney,Mittelfeld,12.0,1300000.0,Borussia Dortmund
+Raphaël Guerreiro,Mittelfeld,105.0,7190000.0,Borussia Dortmund
+Brandt,Mittelfeld,91.0,9440000.0,Borussia Dortmund
+Haaland,Sturm,65.0,24160000.0,Borussia Dortmund
+Reus,Sturm,116.0,12920000.0,Borussia Dortmund
+M. Götze,Sturm,36.0,840000.0,Borussia Dortmund
+Sancho,Sturm,181.0,18880000.0,Borussia Dortmund
+Hazard,Sturm,109.0,7660000.0,Borussia Dortmund
+Schreiber,Torwart,0.0,160000.0,RB Leipzig
+Gulácsi,Torwart,76.0,2780000.0,RB Leipzig
+Mvogo,Torwart,-1.0,160000.0,RB Leipzig
+Ampadu,Abwehr,6.0,260000.0,RB Leipzig
+Mukiele,Abwehr,82.0,3420000.0,RB Leipzig
+Angeliño,Abwehr,31.0,5820000.0,RB Leipzig
+Konaté,Abwehr,19.0,3550000.0,RB Leipzig
+Upamecano,Abwehr,96.0,3960000.0,RB Leipzig
+Klostermann,Abwehr,86.0,5100000.0,RB Leipzig
+Halstenberg,Abwehr,106.0,5520000.0,RB Leipzig
+Orban,Abwehr,42.0,1920000.0,RB Leipzig
+Laimer,Mittelfeld,61.0,2830000.0,RB Leipzig
+Dani Olmo,Mittelfeld,8.0,6610000.0,RB Leipzig
+Kampl,Mittelfeld,17.0,3730000.0,RB Leipzig
+Nkunku,Mittelfeld,123.0,12700000.0,RB Leipzig
+Krauß,Mittelfeld,0.0,200000.0,RB Leipzig
+H. Wolf,Mittelfeld,1.0,450000.0,RB Leipzig
+Haidara,Mittelfeld,23.0,830000.0,RB Leipzig
+T. Adams,Mittelfeld,9.0,950000.0,RB Leipzig
+Forsberg,Mittelfeld,77.0,4950000.0,RB Leipzig
+Sabitzer,Mittelfeld,139.0,14020000.0,RB Leipzig
+Ti. Werner,Sturm,194.0,18870000.0,RB Leipzig
+Lookman,Sturm,3.0,270000.0,RB Leipzig
+Schick,Sturm,71.0,7130000.0,RB Leipzig
+Y. Poulsen,Sturm,54.0,2330000.0,RB Leipzig
+Hradecky,Torwart,80.0,2580000.0,Bayer 04 Leverkusen
+Lomb,Torwart,0.0,160000.0,Bayer 04 Leverkusen
+Tapsoba,Abwehr,18.0,4460000.0,Bayer 04 Leverkusen
+S. Bender,Abwehr,81.0,3400000.0,Bayer 04 Leverkusen
+Wendell ,Abwehr,55.0,1350000.0,Bayer 04 Leverkusen
+Tah,Abwehr,56.0,2050000.0,Bayer 04 Leverkusen
+Sinkgraven,Abwehr,21.0,490000.0,Bayer 04 Leverkusen
+L. Bender,Abwehr,70.0,2950000.0,Bayer 04 Leverkusen
+M. Weiser,Abwehr,32.0,610000.0,Bayer 04 Leverkusen
+Dragović,Abwehr,5.0,190000.0,Bayer 04 Leverkusen
+Stanilewicz,Mittelfeld,0.0,190000.0,Bayer 04 Leverkusen
+Paulinho,Mittelfeld,32.0,3490000.0,Bayer 04 Leverkusen
+Palacios,Mittelfeld,11.0,3330000.0,Bayer 04 Leverkusen
+Havertz,Mittelfeld,94.0,12280000.0,Bayer 04 Leverkusen
+Charles Aránguiz,Mittelfeld,56.0,3460000.0,Bayer 04 Leverkusen
+Amiri,Mittelfeld,81.0,4410000.0,Bayer 04 Leverkusen
+Demirbay,Mittelfeld,65.0,3990000.0,Bayer 04 Leverkusen
+Baumgartlinger,Mittelfeld,51.0,1010000.0,Bayer 04 Leverkusen
+Bailey,Sturm,46.0,3990000.0,Bayer 04 Leverkusen
+Lucas Alario,Sturm,77.0,3780000.0,Bayer 04 Leverkusen
+Diaby,Sturm,72.0,5790000.0,Bayer 04 Leverkusen
+Volland,Sturm,111.0,8800000.0,Bayer 04 Leverkusen
+Grün,Torwart,0.0,160000.0,Borussia M'gladbach
+Sippel,Torwart,0.0,160000.0,Borussia M'gladbach
+Lainer,Abwehr,45.0,1500000.0,Borussia M'gladbach
+Doucouré,Abwehr,0.0,180000.0,Borussia M'gladbach
+Elvedi,Abwehr,90.0,3390000.0,Borussia M'gladbach
+Bensebaini,Abwehr,52.0,2870000.0,Borussia M'gladbach
+Ginter,Abwehr,69.0,3100000.0,Borussia M'gladbach
+Wendt,Abwehr,50.0,850000.0,Borussia M'gladbach
+Jantschke,Abwehr,37.0,340000.0,Borussia M'gladbach
+Neuhaus,Mittelfeld,75.0,3780000.0,Borussia M'gladbach
+Bennetts,Mittelfeld,0.0,180000.0,Borussia M'gladbach
+Zakaria,Mittelfeld,90.0,3770000.0,Borussia M'gladbach
+Traoré,Mittelfeld,0.0,190000.0,Borussia M'gladbach
+Bénes,Mittelfeld,50.0,1410000.0,Borussia M'gladbach
+Strobl,Mittelfeld,14.0,540000.0,Borussia M'gladbach
+Johnson,Mittelfeld,6.0,180000.0,Borussia M'gladbach
+Kramer,Mittelfeld,33.0,1190000.0,Borussia M'gladbach
+J. Hofmann,Mittelfeld,40.0,2450000.0,Borussia M'gladbach
+Thuram,Sturm,111.0,7970000.0,Borussia M'gladbach
+Raffael,Sturm,8.0,260000.0,Borussia M'gladbach
+Pléa,Sturm,118.0,7850000.0,Borussia M'gladbach
+Müsel,Sturm,0.0,170000.0,Borussia M'gladbach
+Stindl,Sturm,54.0,6810000.0,Borussia M'gladbach
+P. Herrmann,Sturm,83.0,2630000.0,Borussia M'gladbach
+Embolo,Sturm,68.0,3090000.0,Borussia M'gladbach
+Casteels,Torwart,43.0,1300000.0,VfL Wolfsburg
+Pervan,Torwart,30.0,160000.0,VfL Wolfsburg
+Kasten,Torwart,0.0,160000.0,VfL Wolfsburg
+Menzel,Torwart,0.0,160000.0,VfL Wolfsburg
+Roussillon,Abwehr,44.0,770000.0,VfL Wolfsburg
+Paulo Otávio,Abwehr,19.0,1460000.0,VfL Wolfsburg
+Tisserand,Abwehr,30.0,390000.0,VfL Wolfsburg
+William,Abwehr,39.0,280000.0,VfL Wolfsburg
+Mbabu,Abwehr,29.0,540000.0,VfL Wolfsburg
+Brooks,Abwehr,42.0,1290000.0,VfL Wolfsburg
+Knoche,Abwehr,55.0,1510000.0,VfL Wolfsburg
+Pongračić,Abwehr,-9.0,510000.0,VfL Wolfsburg
+Arnold,Mittelfeld,111.0,6000000.0,VfL Wolfsburg
+R. Steffen,Mittelfeld,63.0,2330000.0,VfL Wolfsburg
+Ignacio Camacho,Mittelfeld,0.0,250000.0,VfL Wolfsburg
+Schlager,Mittelfeld,41.0,1750000.0,VfL Wolfsburg
+Gerhardt,Mittelfeld,28.0,720000.0,VfL Wolfsburg
+Guilavogui,Mittelfeld,69.0,1160000.0,VfL Wolfsburg
+Azzaoui,Mittelfeld,0.0,180000.0,VfL Wolfsburg
+Joao Victor,Sturm,39.0,880000.0,VfL Wolfsburg
+Weghorst,Sturm,114.0,6870000.0,VfL Wolfsburg
+Ginczek,Sturm,23.0,1670000.0,VfL Wolfsburg
+Brekalo,Sturm,67.0,1850000.0,VfL Wolfsburg
+Mehmedi,Sturm,47.0,1210000.0,VfL Wolfsburg
+Klaus,Sturm,23.0,280000.0,VfL Wolfsburg
+Wiedwald,Torwart,1.0,160000.0,Eintracht Frankfurt
+Trapp,Torwart,35.0,1650000.0,Eintracht Frankfurt
+Rönnow,Torwart,27.0,170000.0,Eintracht Frankfurt
+Russ,Abwehr,0.0,190000.0,Eintracht Frankfurt
+Touré,Abwehr,50.0,930000.0,Eintracht Frankfurt
+N'Dicka,Abwehr,24.0,490000.0,Eintracht Frankfurt
+Hinteregger,Abwehr,101.0,4930000.0,Eintracht Frankfurt
+Abraham,Abwehr,23.0,960000.0,Eintracht Frankfurt
+Hasebe,Abwehr,29.0,460000.0,Eintracht Frankfurt
+Chandler,Abwehr,66.0,2180000.0,Eintracht Frankfurt
+de Guzmán,Mittelfeld,-1.0,170000.0,Eintracht Frankfurt
+Rode,Mittelfeld,53.0,1150000.0,Eintracht Frankfurt
+Lucas Torró,Mittelfeld,7.0,270000.0,Eintracht Frankfurt
+Ćavar,Mittelfeld,0.0,180000.0,Eintracht Frankfurt
+Çetin,Mittelfeld,0.0,170000.0,Eintracht Frankfurt
+Finger,Mittelfeld,0.0,170000.0,Eintracht Frankfurt
+Kamada,Mittelfeld,45.0,1700000.0,Eintracht Frankfurt
+Sow,Mittelfeld,60.0,1600000.0,Eintracht Frankfurt
+Ilsanker,Mittelfeld,25.0,1370000.0,Eintracht Frankfurt
+da Costa,Mittelfeld,45.0,1040000.0,Eintracht Frankfurt
+Gaćinović,Mittelfeld,31.0,660000.0,Eintracht Frankfurt
+Kostić,Mittelfeld,132.0,9000000.0,Eintracht Frankfurt
+Durm,Mittelfeld,10.0,220000.0,Eintracht Frankfurt
+G. Fernandes,Mittelfeld,8.0,200000.0,Eintracht Frankfurt
+Kohr,Mittelfeld,20.0,290000.0,Eintracht Frankfurt
+N. Stendera,Mittelfeld,0.0,170000.0,Eintracht Frankfurt
+Gonçalo Paciência,Sturm,83.0,3170000.0,Eintracht Frankfurt
+Dost,Sturm,64.0,3800000.0,Eintracht Frankfurt
+Plogmann,Torwart,0.0,160000.0,SV Werder Bremen
+Pavlenka,Torwart,24.0,630000.0,SV Werder Bremen
+Veljković,Abwehr,17.0,320000.0,SV Werder Bremen
+Lang,Abwehr,11.0,170000.0,SV Werder Bremen
+Gebre Selassie,Abwehr,33.0,490000.0,SV Werder Bremen
+Moisander,Abwehr,28.0,600000.0,SV Werder Bremen
+Friedl,Abwehr,39.0,340000.0,SV Werder Bremen
+C. Groß,Abwehr,13.0,180000.0,SV Werder Bremen
+Toprak,Abwehr,16.0,510000.0,SV Werder Bremen
+Vogt,Abwehr,37.0,1220000.0,SV Werder Bremen
+Augustinsson,Abwehr,19.0,560000.0,SV Werder Bremen
+S. Langkamp,Abwehr,-1.0,170000.0,SV Werder Bremen
+Möhwald,Mittelfeld,1.0,240000.0,SV Werder Bremen
+M. Eggestein,Mittelfeld,38.0,1140000.0,SV Werder Bremen
+Klaassen,Mittelfeld,80.0,2280000.0,SV Werder Bremen
+Gruev,Mittelfeld,0.0,180000.0,SV Werder Bremen
+Straudi,Mittelfeld,0.0,180000.0,SV Werder Bremen
+Goller,Mittelfeld,6.0,180000.0,SV Werder Bremen
+Bargfrede,Mittelfeld,13.0,330000.0,SV Werder Bremen
+Şahin,Mittelfeld,50.0,900000.0,SV Werder Bremen
+Ihorst,Sturm,1.0,180000.0,SV Werder Bremen
+Sargent,Sturm,45.0,690000.0,SV Werder Bremen
+Pizarro,Sturm,16.0,230000.0,SV Werder Bremen
+Rashica,Sturm,101.0,6050000.0,SV Werder Bremen
+J. Eggestein,Sturm,16.0,230000.0,SV Werder Bremen
+Ōsako,Sturm,63.0,2290000.0,SV Werder Bremen
+Selke,Sturm,34.0,1610000.0,SV Werder Bremen
+Bittencourt,Sturm,46.0,1300000.0,SV Werder Bremen
+Füllkrug,Sturm,30.0,1160000.0,SV Werder Bremen
+F. Bartels,Sturm,0.0,370000.0,SV Werder Bremen
+Esser,Torwart,0.0,160000.0,1899 Hoffenheim
+Baumann,Torwart,56.0,1320000.0,1899 Hoffenheim
+Pentke,Torwart,23.0,190000.0,1899 Hoffenheim
+Lucas Ribeiro,Abwehr,8.0,340000.0,1899 Hoffenheim
+Kadeřábek,Abwehr,58.0,1780000.0,1899 Hoffenheim
+B. Hübner,Abwehr,62.0,2550000.0,1899 Hoffenheim
+Akpoguma,Abwehr,26.0,380000.0,1899 Hoffenheim
+Stafylidis,Abwehr,13.0,180000.0,1899 Hoffenheim
+Bičakčić,Abwehr,38.0,350000.0,1899 Hoffenheim
+Nordtveit,Abwehr,19.0,490000.0,1899 Hoffenheim
+Posch,Abwehr,37.0,380000.0,1899 Hoffenheim
+Baumgartner,Mittelfeld,54.0,2170000.0,1899 Hoffenheim
+Skov,Mittelfeld,90.0,4600000.0,1899 Hoffenheim
+Samassékou,Mittelfeld,19.0,1100000.0,1899 Hoffenheim
+Geiger,Mittelfeld,33.0,590000.0,1899 Hoffenheim
+Elmkies ,Mittelfeld,0.0,200000.0,1899 Hoffenheim
+Grillitsch,Mittelfeld,66.0,1510000.0,1899 Hoffenheim
+Zuber,Mittelfeld,10.0,370000.0,1899 Hoffenheim
+Rudy,Mittelfeld,73.0,2180000.0,1899 Hoffenheim
+Dabbur,Sturm,8.0,2270000.0,1899 Hoffenheim
+Adamyan,Sturm,35.0,590000.0,1899 Hoffenheim
+Belfodil,Sturm,6.0,370000.0,1899 Hoffenheim
+Bebou,Sturm,56.0,1190000.0,1899 Hoffenheim
+Bruun Larsen,Sturm,12.0,690000.0,1899 Hoffenheim
+Kramarić,Sturm,74.0,6670000.0,1899 Hoffenheim
+Kastenmeier,Torwart,18.0,380000.0,Fortuna Duesseldorf
+T. Wiesner,Torwart,0.0,160000.0,Fortuna Duesseldorf
+Z. Steffen,Torwart,34.0,390000.0,Fortuna Duesseldorf
+Okoye,Torwart,0.0,160000.0,Fortuna Duesseldorf
+R. Wolf,Torwart,0.0,160000.0,Fortuna Duesseldorf
+Suttner,Abwehr,26.0,340000.0,Fortuna Duesseldorf
+Contento,Abwehr,0.0,170000.0,Fortuna Duesseldorf
+Bormuth,Abwehr,6.0,170000.0,Fortuna Duesseldorf
+K. Adams,Abwehr,31.0,240000.0,Fortuna Duesseldorf
+Ayhan,Abwehr,75.0,1910000.0,Fortuna Duesseldorf
+A. Hoffmann,Abwehr,44.0,540000.0,Fortuna Duesseldorf
+Gießelmann,Abwehr,44.0,360000.0,Fortuna Duesseldorf
+Zanka,Abwehr,5.0,210000.0,Fortuna Duesseldorf
+M. Zimmermann,Abwehr,42.0,490000.0,Fortuna Duesseldorf
+Bühler,Mittelfeld,0.0,180000.0,Fortuna Duesseldorf
+Bodzek,Mittelfeld,23.0,180000.0,Fortuna Duesseldorf
+Berisha,Mittelfeld,11.0,770000.0,Fortuna Duesseldorf
+Zimmer,Mittelfeld,10.0,170000.0,Fortuna Duesseldorf
+Barkok,Mittelfeld,0.0,170000.0,Fortuna Duesseldorf
+Morales,Mittelfeld,34.0,380000.0,Fortuna Duesseldorf
+Pledl,Mittelfeld,3.0,170000.0,Fortuna Duesseldorf
+Sobottka,Mittelfeld,7.0,180000.0,Fortuna Duesseldorf
+O. Fink,Mittelfeld,25.0,180000.0,Fortuna Duesseldorf
+Thommy,Mittelfeld,105.0,4170000.0,Fortuna Duesseldorf
+Stöger,Mittelfeld,26.0,1940000.0,Fortuna Duesseldorf
+K. Ofori,Sturm,0.0,300000.0,Fortuna Duesseldorf
+Ampomah,Sturm,7.0,200000.0,Fortuna Duesseldorf
+Kownacki,Sturm,22.0,290000.0,Fortuna Duesseldorf
+Karaman,Sturm,49.0,1910000.0,Fortuna Duesseldorf
+Skrzybski,Sturm,2.0,200000.0,Fortuna Duesseldorf
+Hennings,Sturm,96.0,2760000.0,Fortuna Duesseldorf
+Smarsch,Torwart,-1.0,160000.0,Hertha BSC
+Jarstein,Torwart,47.0,460000.0,Hertha BSC
+Baak,Abwehr,0.0,180000.0,Hertha BSC
+Rekik,Abwehr,41.0,740000.0,Hertha BSC
+Torunarigha,Abwehr,36.0,1250000.0,Hertha BSC
+Klünter,Abwehr,31.0,330000.0,Hertha BSC
+Mittelstädt,Abwehr,67.0,1310000.0,Hertha BSC
+N. Stark,Abwehr,36.0,900000.0,Hertha BSC
+Pekarik,Abwehr,1.0,170000.0,Hertha BSC
+Boyata,Abwehr,89.0,2830000.0,Hertha BSC
+Albrecht,Abwehr,0.0,170000.0,Hertha BSC
+Plattenhardt,Abwehr,34.0,840000.0,Hertha BSC
+Darida,Mittelfeld,64.0,1010000.0,Hertha BSC
+A. Maier,Mittelfeld,10.0,840000.0,Hertha BSC
+Ascacíbar,Mittelfeld,17.0,1030000.0,Hertha BSC
+Skjelbred,Mittelfeld,33.0,450000.0,Hertha BSC
+Grujić,Mittelfeld,57.0,2040000.0,Hertha BSC
+Matheus Cunha,Sturm,51.0,5540000.0,Hertha BSC
+Kiprit,Sturm,0.0,180000.0,Hertha BSC
+Lukébakio,Sturm,79.0,3130000.0,Hertha BSC
+Köpke,Sturm,-3.0,190000.0,Hertha BSC
+Dilrosun,Sturm,54.0,1500000.0,Hertha BSC
+Dárdai,Sturm,0.0,170000.0,Hertha BSC
+Ibišević,Sturm,33.0,620000.0,Hertha BSC
+M. Wolf,Sturm,30.0,650000.0,Hertha BSC
+Kalou,Sturm,5.0,320000.0,Hertha BSC
+Leckie,Sturm,4.0,170000.0,Hertha BSC
+Esswein,Sturm,2.0,170000.0,Hertha BSC
+Hanin,Torwart,0.0,160000.0,1. FSV Mainz 05
+F. Müller,Torwart,-6.0,320000.0,1. FSV Mainz 05
+Zentner,Torwart,58.0,320000.0,1. FSV Mainz 05
+Brosinski,Abwehr,64.0,770000.0,1. FSV Mainz 05
+Aarón Martín,Abwehr,37.0,510000.0,1. FSV Mainz 05
+J. Meier,Abwehr,0.0,170000.0,1. FSV Mainz 05
+A. Hack,Abwehr,13.0,180000.0,1. FSV Mainz 05
+Niakhaté,Abwehr,47.0,470000.0,1. FSV Mainz 05
+Kölle,Abwehr,0.0,180000.0,1. FSV Mainz 05
+St. Juste,Abwehr,55.0,1100000.0,1. FSV Mainz 05
+Bell,Abwehr,0.0,170000.0,1. FSV Mainz 05
+J. Bruma,Abwehr,31.0,410000.0,1. FSV Mainz 05
+Pierre-Gabriel,Abwehr,8.0,170000.0,1. FSV Mainz 05
+Mwene,Abwehr,4.0,230000.0,1. FSV Mainz 05
+Boëtius,Mittelfeld,71.0,1980000.0,1. FSV Mainz 05
+Barreiro,Mittelfeld,17.0,690000.0,1. FSV Mainz 05
+E. Fernandes,Mittelfeld,15.0,260000.0,1. FSV Mainz 05
+Kunde,Mittelfeld,63.0,1060000.0,1. FSV Mainz 05
+Latza,Mittelfeld,18.0,410000.0,1. FSV Mainz 05
+Eyibil,Mittelfeld,0.0,180000.0,1. FSV Mainz 05
+Baku,Mittelfeld,30.0,470000.0,1. FSV Mainz 05
+Öztunali,Mittelfeld,61.0,1190000.0,1. FSV Mainz 05
+Awoniyi,Sturm,2.0,170000.0,1. FSV Mainz 05
+Szalai,Sturm,31.0,340000.0,1. FSV Mainz 05
+Ji,Sturm,0.0,190000.0,1. FSV Mainz 05
+Onisiwo,Sturm,77.0,1560000.0,1. FSV Mainz 05
+Akono,Sturm,0.0,180000.0,1. FSV Mainz 05
+Quaison,Sturm,108.0,4140000.0,1. FSV Mainz 05
+Mateta,Sturm,12.0,1620000.0,1. FSV Mainz 05
+N. Thiede,Torwart,2.0,160000.0,SC Freiburg
+Schwolow,Torwart,48.0,1340000.0,SC Freiburg
+Lienhart,Abwehr,37.0,460000.0,SC Freiburg
+Koch,Abwehr,79.0,2590000.0,SC Freiburg
+C. Günter,Abwehr,92.0,2870000.0,SC Freiburg
+Heintz,Abwehr,63.0,1230000.0,SC Freiburg
+Schmid,Abwehr,90.0,2060000.0,SC Freiburg
+N. Schlotterbeck,Abwehr,15.0,170000.0,SC Freiburg
+G. Itter,Abwehr,1.0,170000.0,SC Freiburg
+Gulde,Abwehr,47.0,900000.0,SC Freiburg
+Kübler,Abwehr,1.0,200000.0,SC Freiburg
+Ravet,Mittelfeld,0.0,170000.0,SC Freiburg
+Sallai,Mittelfeld,27.0,600000.0,SC Freiburg
+Tempelmann,Mittelfeld,2.0,170000.0,SC Freiburg
+Keitel,Mittelfeld,-1.0,180000.0,SC Freiburg
+Abrashi,Mittelfeld,11.0,190000.0,SC Freiburg
+Kath,Mittelfeld,0.0,170000.0,SC Freiburg
+Frantz,Mittelfeld,12.0,180000.0,SC Freiburg
+Haberer,Mittelfeld,49.0,910000.0,SC Freiburg
+Höfler,Mittelfeld,76.0,1620000.0,SC Freiburg
+Grifo,Mittelfeld,49.0,3190000.0,SC Freiburg
+Kwon,Sturm,44.0,670000.0,SC Freiburg
+Borrello,Sturm,7.0,190000.0,SC Freiburg
+Waldschmidt,Sturm,48.0,2900000.0,SC Freiburg
+Höler,Sturm,76.0,1260000.0,SC Freiburg
+Petersen,Sturm,99.0,3500000.0,SC Freiburg
+Nübel,Torwart,40.0,610000.0,FC Schalke 04
+Schubert,Torwart,24.0,1380000.0,FC Schalke 04
+Thiaw,Abwehr,0.0,650000.0,FC Schalke 04
+Kabak,Abwehr,70.0,2790000.0,FC Schalke 04
+Kenny,Abwehr,38.0,690000.0,FC Schalke 04
+Juan Miranda,Abwehr,6.0,180000.0,FC Schalke 04
+T. Becker,Abwehr,5.0,290000.0,FC Schalke 04
+Todibo,Abwehr,20.0,2450000.0,FC Schalke 04
+Stambouli,Abwehr,27.0,560000.0,FC Schalke 04
+Oczipka,Abwehr,71.0,1330000.0,FC Schalke 04
+Salif Sané,Abwehr,49.0,4600000.0,FC Schalke 04
+Nastasić,Abwehr,41.0,1140000.0,FC Schalke 04
+Omar Mascarell,Mittelfeld,72.0,2830000.0,FC Schalke 04
+D. Caligiuri,Mittelfeld,68.0,4370000.0,FC Schalke 04
+Mercan,Mittelfeld,0.0,170000.0,FC Schalke 04
+Schöpf,Mittelfeld,-3.0,390000.0,FC Schalke 04
+Boujellab,Mittelfeld,3.0,180000.0,FC Schalke 04
+Serdar,Mittelfeld,86.0,5620000.0,FC Schalke 04
+McKennie,Mittelfeld,45.0,1470000.0,FC Schalke 04
+Harit,Mittelfeld,84.0,4510000.0,FC Schalke 04
+Matondo,Sturm,13.0,370000.0,FC Schalke 04
+Kutucu,Sturm,38.0,450000.0,FC Schalke 04
+Raman,Sturm,53.0,1700000.0,FC Schalke 04
+Gregoritsch,Sturm,26.0,1200000.0,FC Schalke 04
+Koubek,Torwart,25.0,280000.0,FC Augsburg
+Luthe,Torwart,3.0,350000.0,FC Augsburg
+Giefer,Torwart,0.0,170000.0,FC Augsburg
+Teigl,Abwehr,-2.0,170000.0,FC Augsburg
+Oxford,Abwehr,-4.0,180000.0,FC Augsburg
+Uduokhai,Abwehr,40.0,440000.0,FC Augsburg
+Asta,Abwehr,0.0,170000.0,FC Augsburg
+Stanić,Abwehr,0.0,170000.0,FC Augsburg
+Lichtsteiner,Abwehr,1.0,180000.0,FC Augsburg
+Iago,Abwehr,20.0,240000.0,FC Augsburg
+Suchý,Abwehr,0.0,170000.0,FC Augsburg
+Gouweleeuw,Abwehr,24.0,420000.0,FC Augsburg
+F. Götze,Abwehr,0.0,180000.0,FC Augsburg
+Jedvaj,Abwehr,52.0,670000.0,FC Augsburg
+P. Max,Abwehr,117.0,4960000.0,FC Augsburg
+Framberger,Abwehr,18.0,270000.0,FC Augsburg
+Baier,Mittelfeld,41.0,570000.0,FC Augsburg
+Morávek,Mittelfeld,12.0,170000.0,FC Augsburg
+Vargas,Mittelfeld,44.0,650000.0,FC Augsburg
+R. Khedira,Mittelfeld,37.0,450000.0,FC Augsburg
+Jensen,Mittelfeld,9.0,180000.0,FC Augsburg
+Löwen,Mittelfeld,24.0,420000.0,FC Augsburg
+Carlos Gruezo,Mittelfeld,2.0,170000.0,FC Augsburg
+Sergio Córdova,Sturm,17.0,170000.0,FC Augsburg
+Schieber,Sturm,2.0,180000.0,FC Augsburg
+Malone,Sturm,0.0,180000.0,FC Augsburg
+Cheon,Sturm,0.0,180000.0,FC Augsburg
+Finnbogason,Sturm,34.0,1800000.0,FC Augsburg
+Sarenren-Bazee,Sturm,1.0,190000.0,FC Augsburg
+Richter,Sturm,25.0,600000.0,FC Augsburg
+Hahn,Sturm,1.0,240000.0,FC Augsburg
+Kessler,Torwart,0.0,160000.0,1. FC Koeln
+T. Horn,Torwart,41.0,1030000.0,1. FC Koeln
+Scott,Torwart,0.0,160000.0,1. FC Koeln
+Leistner,Abwehr,22.0,1470000.0,1. FC Koeln
+Jorge Meré,Abwehr,15.0,360000.0,1. FC Koeln
+Katterbach,Abwehr,16.0,540000.0,1. FC Koeln
+Czichos,Abwehr,48.0,580000.0,1. FC Koeln
+Ehizibue,Abwehr,50.0,1170000.0,1. FC Koeln
+Bornauw,Abwehr,80.0,3010000.0,1. FC Koeln
+B. Schmitz,Abwehr,21.0,330000.0,1. FC Koeln
+Hauptmann,Mittelfeld,0.0,170000.0,1. FC Koeln
+Jakobs ,Mittelfeld,34.0,880000.0,1. FC Koeln
+Skhiri,Mittelfeld,64.0,1580000.0,1. FC Koeln
+Verstraete,Mittelfeld,17.0,200000.0,1. FC Koeln
+Risse,Mittelfeld,12.0,180000.0,1. FC Koeln
+Clemens,Mittelfeld,0.0,170000.0,1. FC Koeln
+Drexler,Mittelfeld,41.0,840000.0,1. FC Koeln
+Rexhbecaj,Mittelfeld,18.0,990000.0,1. FC Koeln
+Höger,Mittelfeld,10.0,160000.0,1. FC Koeln
+Kainz,Mittelfeld,79.0,2730000.0,1. FC Koeln
+Hector,Mittelfeld,88.0,3650000.0,1. FC Koeln
+Thielmann,Sturm,6.0,350000.0,1. FC Koeln
+Terodde,Sturm,37.0,430000.0,1. FC Koeln
+Uth,Sturm,63.0,5500000.0,1. FC Koeln
+Modeste,Sturm,27.0,600000.0,1. FC Koeln
+Schindler,Sturm,10.0,170000.0,1. FC Koeln
+Jhon Córdoba ,Sturm,104.0,6910000.0,1. FC Koeln
+Zingerle,Torwart,43.0,480000.0,SC Paderborn
+Huth,Torwart,-1.0,160000.0,SC Paderborn
+Kilian,Abwehr,23.0,290000.0,SC Paderborn
+Rumpf,Abwehr,0.0,180000.0,SC Paderborn
+Jans,Abwehr,19.0,180000.0,SC Paderborn
+Collins,Abwehr,50.0,470000.0,SC Paderborn
+Dräger,Abwehr,4.0,170000.0,SC Paderborn
+Holtmann,Abwehr,7.0,170000.0,SC Paderborn
+Schonlau,Abwehr,79.0,1610000.0,SC Paderborn
+Strohdiek,Abwehr,24.0,260000.0,SC Paderborn
+Hünemeier,Abwehr,18.0,180000.0,SC Paderborn
+Sabiri,Mittelfeld,35.0,430000.0,SC Paderborn
+Oeynhausen,Mittelfeld,0.0,180000.0,SC Paderborn
+Bilogrević,Mittelfeld,0.0,180000.0,SC Paderborn
+Kapić,Mittelfeld,0.0,180000.0,SC Paderborn
+Fridjónsson,Mittelfeld,2.0,220000.0,SC Paderborn
+K. Gjasula,Mittelfeld,55.0,560000.0,SC Paderborn
+Pröger,Mittelfeld,67.0,1070000.0,SC Paderborn
+Evans,Mittelfeld,0.0,190000.0,SC Paderborn
+Antwi-Adjei,Mittelfeld,39.0,340000.0,SC Paderborn
+Vasiliadis,Mittelfeld,41.0,390000.0,SC Paderborn
+M. Ritter,Mittelfeld,5.0,170000.0,SC Paderborn
+Michel,Sturm,38.0,290000.0,SC Paderborn
+Srbeny,Sturm,35.0,1530000.0,SC Paderborn
+Jastrzembski,Sturm,3.0,170000.0,SC Paderborn
+Mamba,Sturm,52.0,840000.0,SC Paderborn
+Busk,Torwart,0.0,160000.0,1. FC Union Berlin
+Nicolas,Torwart,0.0,160000.0,1. FC Union Berlin
+C. Lenz,Abwehr,78.0,1520000.0,1. FC Union Berlin
+F. Hübner,Abwehr,17.0,200000.0,1. FC Union Berlin
+M. Friedrich,Abwehr,44.0,400000.0,1. FC Union Berlin
+Reichel,Abwehr,3.0,170000.0,1. FC Union Berlin
+K. Schlotterbeck,Abwehr,39.0,530000.0,1. FC Union Berlin
+Subotić,Abwehr,35.0,470000.0,1. FC Union Berlin
+Parensen,Abwehr,30.0,250000.0,1. FC Union Berlin
+Trimmel,Abwehr,110.0,3670000.0,1. FC Union Berlin
+Flecker,Mittelfeld,0.0,170000.0,1. FC Union Berlin
+Opfermann,Mittelfeld,0.0,170000.0,1. FC Union Berlin
+Kade,Mittelfeld,0.0,180000.0,1. FC Union Berlin
+Bülter,Mittelfeld,66.0,1370000.0,1. FC Union Berlin
+Gentner,Mittelfeld,65.0,1110000.0,1. FC Union Berlin
+Ryerson,Mittelfeld,5.0,180000.0,1. FC Union Berlin
+Prömel,Mittelfeld,5.0,200000.0,1. FC Union Berlin
+Andrich,Mittelfeld,54.0,850000.0,1. FC Union Berlin
+Gogia,Mittelfeld,7.0,170000.0,1. FC Union Berlin
+Malli,Mittelfeld,8.0,620000.0,1. FC Union Berlin
+Schmiedebach,Mittelfeld,0.0,180000.0,1. FC Union Berlin
+F. Kroos,Mittelfeld,7.0,170000.0,1. FC Union Berlin
+Polter,Sturm,25.0,210000.0,1. FC Union Berlin
+S. Becker,Sturm,17.0,190000.0,1. FC Union Berlin
+Ingvartsen,Sturm,52.0,780000.0,1. FC Union Berlin
+Abdullahi,Sturm,2.0,170000.0,1. FC Union Berlin
+S. Andersson,Sturm,118.0,4380000.0,1. FC Union Berlin
+Ujah,Sturm,29.0,210000.0,1. FC Union Berlin
